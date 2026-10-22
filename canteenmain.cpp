@@ -16,11 +16,11 @@ int main()
 	int _quantity;
 	int total=0;
 
-    supplier s1("Damla", "damla8@gmail.com",531307);
-	supplier s2("Taha","taha2@gmail.com",538145);
-    supplier s3("Cemre","cemre8@gmail.com",531207);
-    supplier s4("Erberk","seftali@gmail.com",532405);
-    supplier s5("Yusuf","yuzarsif31@gmail.com",532605);
+    supplier s1("Damla", "",531307);
+	supplier s2("Taha","",538145);
+    supplier s3("Cemre","",531207);
+    supplier s4("Erberk","",532405);
+    supplier s5("Yusuf","",532605);
 
     product p1("coke",10,90);
     product p2("cake",8,50);
